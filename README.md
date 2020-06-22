@@ -1,11 +1,15 @@
 # rozkladeo
 make config.properties file in `src/main/resources` folder
 
-add login in password
+add login and password in file 
 
+------------------------------
 database.login = [login]
 database.password = [password]
--------------------------------------------------------------------------------
+
+------------------------------
+
+
 init database
 
 CREATE DATABASE rokzladeo;
